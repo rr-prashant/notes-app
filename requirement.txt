@@ -1,0 +1,15 @@
+A small project Notes is created using Flutter - Dart. where user can write notes and save it.
+Some of the main packages used are:
+1) Hive - to store data locally
+2) Provider - to retrieve data from note objects
+3) quill - to get Notes funcationality
+
+Requiremnets to run this project:
+- Run the application in an andriod emulator
+
+Functions:
+1) Add note
+2) Update note
+3) Delete note
+4) Local storage
+5) It automatically add/updates the note without using any button just as ios notes
